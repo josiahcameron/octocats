@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+}
+
+div {
+    display: inline-block;
+}
+
+ul{
+    display: inline-block;
+    position: relative;
+    padding: 0;
+}
+
+li{
+    display: inline-block;
+    list-style: none;
+    width: 500px;
+    
+}
+
+img {
+    height: 500px;
+    border: .5px solid grey;
+}
+
+div img {
+    height: 50px;
+    border: 0px;
+    float: right;
+}
+
+body > ul{
+
+}
+span{
+    
+}
+.octodex{
+
+}
+
+.octocat{
+    
+}
+
+
+.image-footer{
+    
+}
+
+.image-number{
+    float:left;
+}
+
+.image-caption{
+    float: right;
+}
+
+
+.authors{
+
+}
